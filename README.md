@@ -21,9 +21,50 @@ Hi I'm  Mahesh Pawar, a passionate self-taught Android Developer from India 🇮
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-318148%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    22 commits     ████████░░░░░░░░░░░░░░░░░   32.35% 
+🌆 Daytime    15 commits     █████░░░░░░░░░░░░░░░░░░░░   22.06% 
+🌃 Evening    31 commits     ███████████░░░░░░░░░░░░░░   45.59% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Wednesday    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Thursday     33 commits     ████████████░░░░░░░░░░░░░   48.53% 
+Friday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
