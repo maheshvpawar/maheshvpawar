@@ -21,6 +21,9 @@ Hi I'm  Mahesh Pawar, a passionate self-taught Android Developer from India 🇮
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
