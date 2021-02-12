@@ -22,7 +22,7 @@ Hi I'm  Mahesh Pawar, a passionate self-taught Android Developer from India 🇮
 
 <!--START_SECTION:waka-->
 ```text
-Java   25 mins         ████████████████████████▓   99.18 % 
+Java   40 mins         █████████████████████████   99.48 % 
 ```
 <!--END_SECTION:waka-->
 
