@@ -13,9 +13,9 @@
 
 Hi I'm  Mahesh Pawar, a passionate self-taught Android Developer from India 🇮🇳
 - 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate on Android Projects.
-- 💬 Ask me about Android & Tech related stuff.
+- 🌱 I’m currently learning Web Development.
+- 👯 I’m looking to collaborate on Web Dev Projects.
+- 💬 Ask me about Web & Tech related stuff.
 - 😄 Pronouns: He/His
 
 ## Coding Stats
