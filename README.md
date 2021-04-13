@@ -29,4 +29,4 @@ Java   1 hr 28 mins    ███████▒░░░░░░░░░░░
 
 ## GitHub Stats
 
-[![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshvpawar&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Th3Mahesh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
