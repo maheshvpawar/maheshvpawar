@@ -11,7 +11,7 @@
 </a>
 <br></br>
 
-Hi I'm  Mahesh Pawar, a passionate self-taught Android Developer from India 🇮🇳
+Hi I'm  Mahesh Pawar, a passionate self-taught Web Developer from India 🇮🇳
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Web Dev Projects.
