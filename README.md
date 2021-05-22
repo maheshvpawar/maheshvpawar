@@ -22,7 +22,7 @@ Hi I'm  Mahesh Pawar, a passionate self-taught Web Developer from India 🇮🇳
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         11 mins         █████████████████████████   99.76 % 
 ```
 <!--END_SECTION:waka-->
 
